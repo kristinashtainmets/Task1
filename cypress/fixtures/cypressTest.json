@@ -1,0 +1,51 @@
+{
+  "main_url": "https://dev.profteam.su/registration",
+
+
+  "login_fail_number": "tester252tester",
+  "login_fail_symbol": "tester!!",
+  "login_fail_whitespace": "tester tester",
+
+  "email_fail_NoDogSymbol": "tester8Gmail.ru",
+  "email_fail_pointStart": ".tester8@mail.ru",
+  "email_fail_pointFinish": "tester8@mail.ru.",
+  "email_fail_withoutName": "@mail.ru.",
+  "email_fail_morePoint": "tester8@mail...ru.",
+  "email_fail_moreDogSymbol": "tester@ttt@mail.ru.",
+  "email_fail_symbol": "tester8@ma+il.ru.",
+
+  "password_fail_lower": "qwerty123",
+  "password_fail_upper": "QWERTY123",
+  "password_fail_symbol": "Qwe rty134",
+
+  "return_password_fail_NoReturn": "Qwerty111123",
+
+  "surname_fail_symbol": "Чехов~",
+  "name_fail_symbol": "Антон!",
+  "patronymic_fail_symbol": "Павло@#вич",
+
+
+  "login_fail_language": "тестер",
+  "email_fail_language": "тестер8@mail.ру",
+  "password_fail_language": "Qweкен123",
+  "surname_fail_language": "Chekhov",
+  "name_fail_language": "Anton",
+  "patronymic_fail_language": "Pavlovich",
+
+
+
+  "login_fail_emoji": "tester\uD83E\uDD22",
+  "email_fail_emoji": "user8@mail.ru\uD83E\uDD22",
+  "surname_fail_emoji": "Чехов\uD83E\uDD22",
+  "name_fail_emoji": "Антон\uD83E\uDD22",
+  "patronymic_fail_emoji": "Павлович\uD83E\uDD22",
+
+
+  "login": "tester",
+  "email": "tester8@mail.ru",
+  "password": "Qwerty123",
+  "return_password": "Qwerty123",
+  "surname": "Чехов",
+  "name": "Антон",
+  "patronymic": "Павлович"
+}
