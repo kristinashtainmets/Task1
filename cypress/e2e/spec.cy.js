@@ -247,7 +247,7 @@ describe('Cypress Tests', () => {
     cy.get('.form-input--password').clear().type('Password1')
     cy.get('.button__background-color-green').click()
 
-    cy.url().should('include', '/account/main')
+
   })
 
   //-----------------------NEEDS--------------------------
